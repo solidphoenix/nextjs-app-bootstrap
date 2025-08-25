@@ -76,3 +76,6 @@
 [{"name":"next-dev","duration":574047,"timestamp":66948345214,"id":1,"tags":{},"startTime":1756114945761,"traceId":"42ac0e8c06a44404"}]
 [{"name":"next-dev","duration":851070,"timestamp":67167999381,"id":1,"tags":{},"startTime":1756115165415,"traceId":"cce8b1cbb9b6a7ca"}]
 [{"name":"next-dev","duration":847751,"timestamp":68391285785,"id":1,"tags":{},"startTime":1756116388701,"traceId":"d0b5e89e38bb2391"}]
+[{"name":"next-dev","duration":617142,"timestamp":69685158233,"id":1,"tags":{},"startTime":1756117682574,"traceId":"9cd7eaf1af6020da"}]
+[{"name":"next-dev","duration":1354215,"timestamp":71419235575,"id":1,"tags":{},"startTime":1756131287327,"traceId":"f719f462939a713c"}]
+[{"name":"next-dev","duration":1343144,"timestamp":73013714306,"id":1,"tags":{},"startTime":1756138160135,"traceId":"1ed2295e08e686f7"}]
