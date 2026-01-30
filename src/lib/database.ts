@@ -28,7 +28,7 @@ export function getResponses(): SurveyResponse[] {
 export function addResponse(response: Omit<SurveyResponse, 'id' | 'timestamp'>): SurveyResponse {
   const newResponse: SurveyResponse = {
     ...response,
-    id: Date.now().toString() + Math.random().toString(36).substr(2, 9),
+    id: Date.now().toString() + Math.random().toString(36).substring(2, 11),
     timestamp: new Date().toISOString(),
   }
   
