@@ -2,6 +2,18 @@
 
 A multilingual survey website for students to select their preferred study day and schedule.
 
+## 🚀 Deployment Status
+
+**⚠️ NOT YET DEPLOYED** - The application is built and ready, but requires these steps to go live:
+
+1. **Merge this PR** to the `main` branch
+2. **Enable GitHub Pages** in repository Settings → Pages → Source: "GitHub Actions"
+3. **Wait 1-2 minutes** for automatic deployment
+
+**Live URL** (after deployment): `https://solidphoenix.github.io/nextjs-app-bootstrap/`
+
+👉 **See [DEPLOYMENT_STATUS.md](./DEPLOYMENT_STATUS.md) for detailed step-by-step instructions**
+
 ## 🌟 Features
 
 - **🌐 Multilingual Support**: Available in German (DE), English (EN), and Russian (RU)
